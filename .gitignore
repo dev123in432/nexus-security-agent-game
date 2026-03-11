@@ -1,0 +1,7 @@
+.venv/
+save.json
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.env
