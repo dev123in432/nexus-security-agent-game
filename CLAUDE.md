@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Repo
+
+https://github.com/dev123in432/nexus-security-agent-game
+
 ## Setup (Windows)
 
 **Prerequisites:** Python 3.10+ — get it from https://www.python.org/downloads/ and tick "Add Python to PATH" during install. Windows 11 users can skip this; the setup script will install it via `winget` automatically.
